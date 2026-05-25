@@ -293,7 +293,7 @@ MIT — feel free to use this as a starting point for your own projects.
 
 ## 👤 Author
 
-Built by **[Your Name]** as part of an AI/RAG engineering portfolio.
+Built by **Manisha Takale** as part of an AI/RAG engineering portfolio.
 
 - GitHub: [@mstakale](https://github.com/mstakale)
 - LinkedIn: [Manisha Takale](https://www.linkedin.com/in/manisha-takale-29a17914/)
